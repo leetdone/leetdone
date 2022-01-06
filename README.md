@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I'm currently working on iOS development. Learning iOS and swift is quite funny!
 <!--
 **leetdone/leetdone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
