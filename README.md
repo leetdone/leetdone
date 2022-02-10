@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm currently learning Java while developing some funny Java apps.  
+Pinned repo is only a __part__ of my projects, but it shows my enthusiatism for software development.
 <!--
 **leetdone/leetdone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
